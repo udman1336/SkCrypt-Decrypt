@@ -47,6 +47,7 @@ Drag & Drop Your Target .exe Onto "SkCrypt Decrypt.exe"
 
 ## Folder Structure
 
+```
 SkCrypt-Decrypt/
 ├── x64/
 │   └── Release/
@@ -57,7 +58,7 @@ SkCrypt-Decrypt/
 │       └── llvm-strings.exe        ← Required tool from the zip
 ├── SkCrypt Decrypt.cpp
 └── README.md
-
+```
 
 ## License
 
