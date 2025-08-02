@@ -45,23 +45,20 @@ Make sure your project is built in x64/Release mode before proceeding.
 
 Drag & Drop Your Target .exe Onto "SkCrypt Decrypt.exe"
 
----
-
 ## Folder Structure
 
 SkCrypt-Decrypt/
 │
 ├── x64/
 │   └── Release/
-│       ├── SkCrypt Decrypt.exe     ← Compiled Decrypter
-│       ├── libc++-2.dll            ← Required Tool From The Zip
-│       ├── libLLVM-20.dll          ← Required Tool From The Zip
-│       ├── libxml2-2.dll           ← Required Tool From The Zip
-│       └── llvm-strings.exe        ← Required Tool From The Zip
+│       ├── SkCrypt Decrypt.exe   ← Compiled Decrypter
+│       ├── libc++-2.dll          ← Required DLL from the zip
+│       ├── libLLVM-20.dll        ← Required DLL from the zip
+│       ├── libxml2-2.dll         ← Required DLL from the zip
+│       └── llvm-strings.exe      ← Required tool from the zip
 ├── SkCrypt Decrypt.cpp
 ├── README.md
 
----
 
 ## License
 
