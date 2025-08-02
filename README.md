@@ -21,7 +21,7 @@ Whether you're analyzing binaries or reversing obfuscated executables, this tool
 Make sure your project is built in x64/Release mode before proceeding.
 
 1. Clone this repository:
-   git clone https://github.com/udman1337/SkCrypt-Decrypt.git
+   git clone https://github.com/udman1336/SkCrypt-Decrypt.git
    cd SkCrypt-Decrypt
 
 2. Download the requirements zip:
