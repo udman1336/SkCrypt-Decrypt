@@ -60,6 +60,8 @@ SkCrypt-Decrypt/
 └── README.md
 ```
 
+![Code Snippet](https://i.imgur.com/YaYlYNv.png)
+
 ## License
 
 MIT License
